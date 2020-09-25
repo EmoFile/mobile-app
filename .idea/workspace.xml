@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="61af5476-b2e4-4432-adcb-1a0e19139503" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/Home.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Login.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/android/app/google-services.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/firebase.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/res/R.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/res/colors/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/res/component/Button.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/res/component/Logo.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/res/component/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/res/i18n/en.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/res/i18n/fr.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/res/i18n/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/res/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/r_web/build/asset-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/r_web/build/asset-manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/r_web/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/r_web/build/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/r_web/build/precache-manifest.3dadb453e9d823a3d62bd2c3e4b14683.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/r_web/build/service-worker.js" beforeDir="false" afterPath="$PROJECT_DIR$/r_web/build/service-worker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/r_web/build/static/js/main.b5e966f7.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/r_web/build/static/js/main.b5e966f7.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/r_web/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/r_web/src/App.tsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1huYCuxB30NSMSoqVQYbabwZ35m" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/res" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+    <property name="ts.external.directory.path" value="C:\Users\richa\Desktop\DevMobile\mobile-app\r_web\node_modules\typescript\lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\richa\Desktop\DevMobile\mobile-app\app\res" />
+      <recent name="C:\Users\richa\Desktop\DevMobile\mobile-app\app\res\component" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\richa\Desktop\DevMobile\mobile-app\app\res" />
+      <recent name="C:\Users\richa\Desktop\DevMobile\mobile-app\app" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="61af5476-b2e4-4432-adcb-1a0e19139503" name="Default Changelist" comment="" />
+      <created>1600862321073</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600862321073</updated>
+      <workItem from="1600862323067" duration="7296000" />
+      <workItem from="1600870975905" duration="777000" />
+      <workItem from="1600872036999" duration="783000" />
+      <workItem from="1600930086833" duration="6561000" />
+      <workItem from="1600938562071" duration="14515000" />
+      <workItem from="1601018080916" duration="8959000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.gradle" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="391" y="312" key="#ESLint" timestamp="1600932629868">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="391" y="312" key="#ESLint/0.0.1536.824@0.0.1536.824" timestamp="1600932629868" />
+    <state x="232" y="18" width="702" height="801" key="find.popup" timestamp="1600954893040">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="232" y="18" width="702" height="801" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1600954893040" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1600948607980">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1600948607980" />
+    <state x="922" y="125" width="672" height="678" key="search.everywhere.popup" timestamp="1601025307457">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="922" y="125" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1601025307457" />
+  </component>
+</project>

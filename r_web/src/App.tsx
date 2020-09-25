@@ -4,31 +4,32 @@ import './App.css';
 
 export default class App extends React.Component {
     state = {
-        display: false
-    }
-    toto = {
-        display: "Pomme"
+        isLoaded: false,
+        items: {}
     }
     click = () => {
-
-        this.toto.display = "Banane";
-        this.setState({display: true})
-        console.log("click")
-        console.log(this.state.display)
-        console.log(this.toto.display)
+        fetch("http://localhost:5001/mobileprojectril19/us-central1/api/data")
+            .then(res => res.json())
+            .then(
+                (result) => {
+                    this.setState({
+                        isLoaded: true,
+                        items: result.items
+                    });
+                });
+        console.log(this.state.items)
 
     }
 
     render() {
         console.log("Render")
-        console.log(this.state.display)
-        console.log(this.toto.display)
+        console.log(this.state.isLoaded)
         return (
             <div className="App">
                 <header className="App-header">
                     <button onClick={this.click}>Clique-moi</button>
                     {
-                        this.state.display && <div>T'as cliqué connard !!!</div>
+                        this.state.isLoaded && <div>T'as cliqué connard !!!</div>
                     }
                 </header>
             </div>
