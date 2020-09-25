@@ -22,9 +22,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61af5476-b2e4-4432-adcb-1a0e19139503" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/app/android/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/android/app/build.gradle" afterDir="false" />
-    </list>
+    <list default="true" id="61af5476-b2e4-4432-adcb-1a0e19139503" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,7 +79,7 @@
       <workItem from="1600872036999" duration="783000" />
       <workItem from="1600930086833" duration="6561000" />
       <workItem from="1600938562071" duration="14515000" />
-      <workItem from="1601018080916" duration="9353000" />
+      <workItem from="1601018080916" duration="10001000" />
     </task>
     <servers />
   </component>
