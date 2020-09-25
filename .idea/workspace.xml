@@ -23,28 +23,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="61af5476-b2e4-4432-adcb-1a0e19139503" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/Home.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Login.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/android/app/google-services.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/firebase.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/res/R.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/res/colors/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/res/component/Button.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/res/component/Logo.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/res/component/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/res/i18n/en.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/res/i18n/fr.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/res/i18n/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/res/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/r_web/build/asset-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/r_web/build/asset-manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/r_web/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/r_web/build/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/r_web/build/precache-manifest.3dadb453e9d823a3d62bd2c3e4b14683.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/r_web/build/service-worker.js" beforeDir="false" afterPath="$PROJECT_DIR$/r_web/build/service-worker.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/r_web/build/static/js/main.b5e966f7.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/r_web/build/static/js/main.b5e966f7.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/r_web/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/r_web/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/android/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/android/app/build.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,7 +81,7 @@
       <workItem from="1600872036999" duration="783000" />
       <workItem from="1600930086833" duration="6561000" />
       <workItem from="1600938562071" duration="14515000" />
-      <workItem from="1601018080916" duration="8959000" />
+      <workItem from="1601018080916" duration="9353000" />
     </task>
     <servers />
   </component>
